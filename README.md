@@ -2,7 +2,7 @@
 - 👀 I’m interested in Project Development 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on project 
-- 📫 email-luckyshrivastava@gmail.com
+- 📫 email-luckyshrivastava77783@gmail.com
 
 <!---
 yashshrivasta/yashshrivasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
